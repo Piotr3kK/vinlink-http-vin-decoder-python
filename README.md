@@ -1,6 +1,6 @@
 # Online VIN decoder - another python client
 
-This is another example of python client for VinLink online decoder (HTTP service instead of SOAP service).
+This is another example of python client for VinLink - online VIN decoder (HTTP service instead of SOAP service).
 
 You need to create an account at www.vinlink.com
 
